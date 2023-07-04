@@ -39,11 +39,11 @@ The main script runs all analysis in less than 1 minute.
 | TableA3.do | Table A3 | TableA3.tex | - |
 | TableA4.do | Table A4 | TableA4.tex | - |
 | TableA5.do | Table A5 | TableA5.tex | - |
-| TableA6.do | Table A6 | TableA6X.tex | - |
-| TableA7.do | Table A7 | TableA7X.tex | - |
-| TableA8.do | Table A8 | TableA8X.tex | - |
-| TableA9.do | Table A9 | TableA9X.tex | - |
-| TableA10.do | Table A10 | TableA10X.tex | - |
+| TableA6.do | Table A6 | TableA6X.tex | Produces multiple tables. Main table named 'TableA6.tex' |
+| TableA7.do | Table A7 | TableA7X.tex | Produces multiple tables. Main table named 'TableA7.tex' |
+| TableA8.do | Table A8 | TableA8X.tex | Produces multiple tables. Main table named 'TableA8.tex' |
+| TableA9.do | Table A9 | TableA9X.tex | Produces multiple tables. Main table named 'TableA9.tex' |
+| TableA10.do | Table A10 | TableA10X.tex | Produces multiple tables. Main table named 'TableA10.tex' |
 
 ## Instructions for replicators
 
