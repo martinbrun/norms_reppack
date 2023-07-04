@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: >-
+  Replication of Brouwer et al (2023): "Teaching Norms: Direct Evidence of Parental Transmission"
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Martín
+    family-names: Brun
+    affiliation: Universitat Autònoma de Barcelona
+    orcid: 'https://orcid.org/0000-0002-6896-6309'
+  - given-names: Micole
+    family-names: De Vera
+    affiliation: CEMFI and IZA
+  - given-names: Valor
+    family-names: Kadiru
+    affiliation: University of Kassel
+  - given-names: Fabian
+    family-names: Mierisch
+    affiliation: Catholic University Eichstaett-Ingolstadt
+repository-code: 'https://github.com/martinbrun/norms_reppack'
+abstract: >-
+  Replication of Brouwer et al (2023): "Teaching Norms: Direct Evidence of Parental Transmission". 
+  This replication was undertaken as part of the "Vienna Replication Games", organized by the Institute for Replication.
+keywords:
+  - replication
+  - economics
+license: CC0-1.0
